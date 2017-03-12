@@ -1,0 +1,8 @@
+/home/bob/code/bobsakson.com/bin/Debug/netcoreapp1.1/bobsakson.com.deps.json
+/home/bob/code/bobsakson.com/bin/Debug/netcoreapp1.1/bobsakson.com.runtimeconfig.json
+/home/bob/code/bobsakson.com/bin/Debug/netcoreapp1.1/bobsakson.com.runtimeconfig.dev.json
+/home/bob/code/bobsakson.com/bin/Debug/netcoreapp1.1/bobsakson.com.dll
+/home/bob/code/bobsakson.com/bin/Debug/netcoreapp1.1/bobsakson.com.pdb
+/home/bob/code/bobsakson.com/obj/Debug/netcoreapp1.1/bobsakson.com.AssemblyInfo.cs
+/home/bob/code/bobsakson.com/obj/Debug/netcoreapp1.1/bobsakson.com.dll
+/home/bob/code/bobsakson.com/obj/Debug/netcoreapp1.1/bobsakson.com.pdb
